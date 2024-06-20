@@ -1,0 +1,1 @@
+const String baseUrl = 'https://backend-j-care-production.up.railway.app';
